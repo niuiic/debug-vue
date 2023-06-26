@@ -1,4 +1,6 @@
-git submodule update
+set -eE
+
+git clone https://github.com/vuejs/core vue
 cd ./debug
 pnpm i
 cd ../vue

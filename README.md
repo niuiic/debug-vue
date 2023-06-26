@@ -13,3 +13,4 @@ Then you can debug vue source code in the project `debug`.
 
 - Please do the operations defined in `init.sh` manually, if you are working on windows or want to make changes.
 - Do not change the location of this repo, or you need to regenerate sourcemap.
+- `git`, `pnpm`, `sed`, `rsync` are required.
